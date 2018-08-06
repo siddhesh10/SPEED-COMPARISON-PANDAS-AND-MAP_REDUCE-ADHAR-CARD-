@@ -1,4 +1,10 @@
 # SPEED-COMPARISON-PANDAS-AND-MAP_REDUCE-ADHAR-CARD-
+
+Website to get_dataset
+http://data.uidai.gov.in/uiddatacatalog/getDatsetInfo.do?dataset=UIDAI-ENR-DETAIL
+
+
+
 Speed of map -reduce and pandas is compared by using analysis on OFFICIAL_INDIAN_ADDHAR DATA
 
 
